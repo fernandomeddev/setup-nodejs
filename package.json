@@ -1,6 +1,6 @@
 {
   "name": "setup-nodejs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Projeto de demonstração",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/fernandomeddev/setup-nodejs#readme",
   "dependencies": {
-    "docker": "^0.2.14",
-    "docker-compose": "^0.23.19",
     "express": "^4.18.2"
   },
   "devDependencies": {
