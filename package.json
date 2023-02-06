@@ -1,0 +1,34 @@
+{
+  "name": "setup-nodejs",
+  "version": "0.0.1",
+  "description": "Projeto de demonstração",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomeddev/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "\"Fernando Medeiros <fernandodesenvti@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandomeddev/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/fernandomeddev/setup-nodejs#readme",
+  "dependencies": {
+    "docker": "^0.2.14",
+    "docker-compose": "^0.23.19",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1",
+    "nodemon": "^2.0.20"
+  }
+}
